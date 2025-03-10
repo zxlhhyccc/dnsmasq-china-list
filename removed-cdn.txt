@@ -19,6 +19,7 @@ avatar.xboxlive.com
 bg4.v4.a.dl.ws.microsoft.com
 bg.v4.a.dl.ws.microsoft.com
 blog.tutorabc.com
+blog.vive.com
 build.microsoft.com
 cashier.alipay.com.srip.net
 catalog-cdn.xboxlive.com
@@ -34,6 +35,7 @@ china-cdn3.unityads.unity3d.com
 china.msn.com
 china.nba.com
 china.uxengine.net
+cl2.apple.com.edgekey.net.globalredir.akadns.net
 click.dji.com
 client-download.steampowered.com
 clubhub.xboxlive.com
@@ -130,6 +132,7 @@ lx2.cok.elexapp.com
 lx2.cok.elex.com
 manage.c3edge.com
 marketplace-xb.xboxlive.com
+mbsuat.download.prss.microsoft.com
 media.admob.com
 mediaexp-programming.xboxlive.com
 media.licdn.com
@@ -139,6 +142,8 @@ mktplassets-ssl.xbox.com
 msgr.dlservice.microsoft.com
 msgruser.dlservice.microsoft.com
 msg.xboxlive.com
+msproductuat.download.prss.microsoft.com
+myvsuat.download.prss.microsoft.com
 ngportal.cdnetworks.com
 nxeassets.xbox.com
 ocsp-data.us.cdnetworks.com
@@ -173,6 +178,7 @@ sekong.cn.com
 settings.crashlytics.com
 settings.xboxlive.com
 shop.samsung.com
+si.cdn.dell.com
 silverlight.dlservice.microsoft.com
 sina.com.hk
 siportal.cdnetworks.com
@@ -228,8 +234,10 @@ www.parallels.com
 www.renren.com.cdngc.net
 www-ssl.intel.com
 www.sulwhasoo.com
+www.thinkpad.com
 www.travelzoo.com
 www.tzoo-img.com
+www.vive.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
 z0.muscache.com
